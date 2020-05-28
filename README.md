@@ -1,5 +1,5 @@
-# angular-textarea-autoresize
+# angular-fupload
 
-Example of textarea with automatic rows number based on content.
+Example of uploading files with context visualization (text only).
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-textarea-autoresize)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-fupload)
